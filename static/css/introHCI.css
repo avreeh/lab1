@@ -32,3 +32,17 @@ body {
      position: absolute;
      z-index: -1;
 }
+
+h1 {
+	color: #f1b3be;
+	text-align: center;
+}
+
+h4 {
+	color: #a1e2f7;
+}
+
+.subheader {
+	color: #f1b3be;
+	text-align: center;
+}
